@@ -1,0 +1,7 @@
+@startuml
+
+:Angular.js developer: --> ( Views ngdocs automatically)
+:Angular.js developer: --> ( Views uml images automatically )
+:Angular.js developer: --> ( Copies images automatically )
+
+@enduml

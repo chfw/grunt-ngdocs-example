@@ -1,0 +1,13 @@
+@ngdoc overview
+@name Enhanced ngdocs example
+@description
+
+# Preview the documentations as you document along.
+
+## Here is the added use cases
+
+<img src='images/sample.png'>
+
+## Here is the copied image:
+
+<img src='images/sample-128.png'>
